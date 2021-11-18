@@ -1,0 +1,12 @@
+/node_modules/
+/build/
+/migrations/
+
+
+#Buidler files
+cache
+artifacts
+coverage
+coverage.json
+
+.env
